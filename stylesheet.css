@@ -5,3 +5,7 @@ body{
 #Header h1{
   color:black;
 }
+
+#img{
+ background-imgage: url("Jellyfish.jpg");
+}
