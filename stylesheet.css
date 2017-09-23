@@ -7,5 +7,7 @@ body{
 }
 
 #img{
- background-imgage: url("Jellyfish.jpg");
+  background-imgage: url("Jellyfish.jpg");
+  width:100px;
+  height:100px;
 }
