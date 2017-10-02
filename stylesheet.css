@@ -18,7 +18,7 @@ body{
 #emote{
     background-color:white;
     height:300px;
-    width:400px;
+    width:100%;
     margin: auto;
     margin-top: 70px;
 }
