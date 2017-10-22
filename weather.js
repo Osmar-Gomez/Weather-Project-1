@@ -1,4 +1,4 @@
-var x = document.getElementById("location");
+var x = document.getElementById("emote.location");
 
 
 
